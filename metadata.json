@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Pyramid Construction Simulatorhumans + djed",
+  "description": "An agent that helps you simulate the building and construction of the pyramids using Steven Tasker's djed-based approach. Adjust parameters, run the physics simulation, and consult with an AI architect to understand the results.",
+  "requestFramePermissions": []
+}
